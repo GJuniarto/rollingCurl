@@ -1,0 +1,15 @@
+{
+    "name": "damnic/rolling-curl",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gjuniarto",
+            "email": "geryjuniarto99@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4"
+    }
+}
